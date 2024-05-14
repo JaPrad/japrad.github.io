@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 ---
-## Hey, I'm Jyotiraditya
+### Hey, I'm Jyotiraditya
 
 I'm an Economics undergrad at [Azim Premji University, Bengaluru](https://azimpremjiuniversity.edu.in). 
 And I love to code.
