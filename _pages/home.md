@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 ---
-### Hey, I'm Jyotiraditya
+## Hey, I'm Jyotiraditya
 
 I'm an Economics undergrad at [Azim Premji University, Bengaluru](https://azimpremjiuniversity.edu.in). 
 And I love to code.
@@ -12,7 +12,7 @@ I'm also interested in the areas of poverty and inequality.
 I'm currently an intern at the [Centre for Financial Accountability](https://cenfa.org), where I work on understanding the implications of economic inequality in India.
 My role includes collecting, analyzing and making visualizations of data from existing research and government reports.
 
-##### Contact
+#### Contact
 Email me at [japrad26@gmail.com](mailto:japrad26@gmail.com).
 I also exist in [LinkedIn](https://www.linkedin.com/in/jyotiraditya-pradhan-507858235/) and surely, [GitHub](https://github.com/JaPrad).
 
