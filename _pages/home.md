@@ -14,6 +14,5 @@ My role includes collecting, analyzing and making visualizations of data from ex
 
 #### Contact
 Email me at [japrad26@gmail.com](mailto:japrad26@gmail.com).
-I also exist in [LinkedIn](https://www.linkedin.com/in/jyotiraditya-pradhan-507858235/) and surely, [GitHub](https://github.com/JaPrad).
-
-PS I love to talk.
+I also exist in [LinkedIn](https://www.linkedin.com/in/jyotiraditya-pradhan-507858235/) and surely, [GitHub](https://github.com/JaPrad).  
+P.S. I love to talk.
