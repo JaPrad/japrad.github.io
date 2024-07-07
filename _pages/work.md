@@ -2,7 +2,7 @@
 layout: splash
 permalink: /work/
 ---
-
+<br>
 I'm jobless at present. Enjoying the last few days of my vacations; the calm before the storm of a new semester at the university begins.
 
 #### Past
