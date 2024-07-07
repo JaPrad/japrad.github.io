@@ -20,7 +20,7 @@ title                    : "Jyotiraditya Pradhan"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jyotiraditya Pradhan"
-description              : "A site to showcase my pojects, learning and blog"
+description              : "My place on the internet"
 url                      : "japrad.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
