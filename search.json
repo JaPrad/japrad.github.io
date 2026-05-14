@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "CS50 R Course\nR for Data Science Book\nData Visualization: A Practical Introduction Book\nAdvanced R Book"
+  },
+  {
+    "objectID": "resources.html#r",
+    "href": "resources.html#r",
+    "title": "Resources",
+    "section": "",
+    "text": "CS50 R Course\nR for Data Science Book\nData Visualization: A Practical Introduction Book\nAdvanced R Book"
+  },
+  {
+    "objectID": "resources.html#python",
+    "href": "resources.html#python",
+    "title": "Resources",
+    "section": "Python",
+    "text": "Python\n\nCS50 Python Course\nThinkPython Book\nPython Data Science Hanbook Book\nPython for Data Analysis Book"
+  },
+  {
+    "objectID": "resources.html#machine-learning",
+    "href": "resources.html#machine-learning",
+    "title": "Resources",
+    "section": "Machine Learning",
+    "text": "Machine Learning\n\nAn Introduction to Statistical Learning Book\nStatQuest with Josh Starmer YouTube Channel\nFastAI: Practical Deep Learning Course\nDive into Deep Learning Book"
+  },
+  {
+    "objectID": "resources.html#git",
+    "href": "resources.html#git",
+    "title": "Resources",
+    "section": "Git",
+    "text": "Git\n\nGit and Github for Poets YouTube Playlist\nPro Git Book"
+  },
+  {
+    "objectID": "resources.html#web-development",
+    "href": "resources.html#web-development",
+    "title": "Resources",
+    "section": "Web Development",
+    "text": "Web Development\n\nfreeCodeCamp Curriculum\nThe Odin Project Curriculum\nCS50 Web Course"
+  },
+  {
+    "objectID": "resources.html#other-programming-resources",
+    "href": "resources.html#other-programming-resources",
+    "title": "Resources",
+    "section": "Other Programming Resources",
+    "text": "Other Programming Resources\n\nModern Plain Text Computing Course\nCS50x Course\nLinuxCommand.org Website"
+  },
+  {
+    "objectID": "resources.html#statistics-econometrics",
+    "href": "resources.html#statistics-econometrics",
+    "title": "Resources",
+    "section": "Statistics & Econometrics",
+    "text": "Statistics & Econometrics\n\nOpenIntro Statistics Book\nIntroduction to Mordern Statistics Book\nRegression and Other Stories Book"
+  },
+  {
+    "objectID": "resources.html#causal-inference",
+    "href": "resources.html#causal-inference",
+    "title": "Resources",
+    "section": "Causal Inference",
+    "text": "Causal Inference\n\nThe Effect: An Introduction to Research Design and Causality Book\nCausal Inference: The Mixtape Book\nCausal ML Book"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jyotiraditya Pradhan",
+    "section": "",
+    "text": "I’m a fourth year economics undergraduate at Azim Premji University, Bengaluru. My broad interests lie across microeconomics, development, and methods of statistical inference.\nMy current research looks to model labour market transitions using markov chains. I’m also working as a research assistant in a project studying the phenomenon of ID blocking of gig workers.\nPS: Love to chat; feel free to reach out!"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Work in Progress…"
+  }
+]
