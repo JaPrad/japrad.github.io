@@ -1,0 +1,57 @@
+---
+title: "Resources"
+---
+
+## R
+
+* [CS50 R](https://cs50.harvard.edu/r/) _Course_
+* [R for Data Science](https://r4ds.hadley.nz/) _Book_
+* [Data Visualization: A Practical Introduction](https://socviz.co/) _Book_
+* [Advanced R](https://adv-r.hadley.nz/) _Book_
+
+
+## Python
+
+* [CS50 Python](https://cs50.harvard.edu/python/) _Course_
+* [ThinkPython](https://allendowney.github.io/ThinkPython/) _Book_
+* [Python Data Science Hanbook](https://jakevdp.github.io/PythonDataScienceHandbook/) _Book_
+* [Python for Data Analysis](https://wesmckinney.com/book/) _Book_
+
+
+## Machine Learning
+
+* [An Introduction to Statistical Learning](https://www.statlearning.com/) _Book_
+* [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer) _YouTube Channel_
+* [FastAI: Practical Deep Learning](https://course.fast.ai/) _Course_
+* [Dive into Deep Learning](https://d2l.ai/) _Book_
+
+
+## Git
+
+* [Git and Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) _YouTube Playlist_
+* [Pro Git](https://git-scm.com/book/en/v2) _Book_
+
+## Web Development
+
+* [freeCodeCamp](https://git-scm.com/book/en/v2) _Curriculum_
+* [The Odin Project](https://www.theodinproject.com/) _Curriculum_
+* [CS50 Web](https://cs50.harvard.edu/web/) _Course_
+
+## Other Programming Resources
+
+* [Modern Plain Text Computing](https://mptc.io/) _Course_
+* [CS50x](https://cs50.harvard.edu/x/) _Course_
+* [LinuxCommand.org](https://linuxcommand.org/) _Website_
+
+## Statistics & Econometrics
+
+* [OpenIntro Statistics](https://leanpub.com/os) _Book_
+* [Introduction to Mordern Statistics](https://openintrostat.github.io/ims/) _Book_
+* [Regression and Other Stories](https://avehtari.github.io/ROS-Examples/) _Book_
+
+## Causal Inference
+
+* [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/) _Book_
+* [Causal Inference: The Mixtape](https://mixtape.scunning.com/) _Book_
+* [Causal ML](https://causalml-book.org/) _Book_
+

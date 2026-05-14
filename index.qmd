@@ -1,11 +1,13 @@
 ---
-title: "japrad.github.io"
+title: "Jyotiraditya Pradhan"
 ---
 
-This is a Quarto website.
+I'm a fourth year economics undergraduate at [Azim Premji University, Bengaluru](https://azimpremjiuniversity.edu.in/). My broad interests lie across microeconomics, development, and methods of statistical inference.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My current research looks to model labour market transitions using markov chains. I'm also working as a research assistant in a project studying the phenomenon of ID blocking of gig workers. 
 
-```{r}
-1 + 1
-```
+PS: Love to chat; feel free to reach out! <br>
+[{{< fa envelope >}}](mailto:japrad26@gmail.com)
+[{{< fa brands linkedin >}}](https://www.linkedin.com/in/jyotiraditya-pradhan-507858235/)
+[{{< fa brands square-github >}}](https://github.com/JaPrad)
+
