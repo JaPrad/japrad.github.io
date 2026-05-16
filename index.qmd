@@ -1,13 +1,12 @@
 ---
-title: "Jyotiraditya Pradhan"
+title: "About"
 ---
 
 I'm a fourth year economics undergraduate at [Azim Premji University, Bengaluru](https://azimpremjiuniversity.edu.in/). My broad interests lie across microeconomics, development, and methods of statistical inference.
 
-My current research looks to model labour market transitions using markov chains. I'm also working as a research assistant in a project studying the phenomenon of ID blocking of gig workers. 
+My current research involves modelling labour market transitions using markov chains. I'm also working as a research assistant in a project studying ID blocking of gig workers by delivery platforms.
 
-PS: Love to chat; feel free to reach out! <br>
-[{{< fa envelope >}}](mailto:japrad26@gmail.com)
-[{{< fa brands linkedin >}}](https://www.linkedin.com/in/jyotiraditya-pradhan-507858235/)
+PS: Love to chat; feel free to reach out! <br> 
+[{{< fa envelope >}}](mailto:japrad26@gmail.com) 
+[{{< fa brands linkedin >}}](https://www.linkedin.com/in/jyotiraditya-pradhan-507858235/) 
 [{{< fa brands square-github >}}](https://github.com/JaPrad)
-
