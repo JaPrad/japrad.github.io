@@ -1,12 +1,17 @@
 ---
-title: "About"
+title-block-style: none
+toc: false
 ---
 
-I'm a fourth year economics undergraduate at [Azim Premji University, Bengaluru](https://azimpremjiuniversity.edu.in/). My broad interests lie across microeconomics, development, and methods of statistical inference.
+# About
 
-I'm currently working my undergradutae thesis under [Prof. Rajendran Narayanan](https://azimpremjiuniversity.edu.in/people/rajendran-narayanan), in which I am attempting to model labour market transitions in India. I'm also interning as a research assistant under [Prof. Chinmaya Kumar](https://chinmayakumar.com/)
+I'm a fourth year economics undergraduate at [Azim Premji University, Bengaluru](https://azimpremjiuniversity.edu.in/). My interests lie across labour economics, industrial organization, and econometrics.
+
+I'm currently working on modelling labour market transitions in India, as part of my undergraduate thesis under [Prof. Rajendran Narayanan](https://azimpremjiuniversity.edu.in/people/rajendran-narayanan). I also work as a research assistant under [Prof. Chinmaya Kumar](https://chinmayakumar.com/).
 
 PS: Love to chat; feel free to reach out! <br> 
-[{{< fa envelope >}}](mailto:japrad26@gmail.com) 
-[{{< fa brands linkedin >}}](https://www.linkedin.com/in/jyotiraditya-pradhan-507858235/) 
+[{{< fa envelope >}}](mailto:japrad26@gmail.com)
+[{{< fa brands linkedin >}}](https://www.linkedin.com/in/jyotiraditya-pradhan-507858235/)
 [{{< fa brands square-github >}}](https://github.com/JaPrad)
+
+[Now](#) | [Colophon](#) | [CV](#)

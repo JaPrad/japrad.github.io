@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "I’m a fourth year economics undergraduate at Azim Premji University, Bengaluru. My broad interests lie across microeconomics, development, and methods of statistical inference.\nI’m currently working my undergradutae thesis under Prof. Rajendran Narayanan, in which I am attempting to model labour market transitions in India. I’m also interning as a research assistant under Prof. Chinmaya Kumar\nPS: Love to chat; feel free to reach out!"
+    "text": "About\nI’m a fourth year economics undergraduate at Azim Premji University, Bengaluru. My interests lie across labour economics, industrial organization, and econometrics.\nI’m currently working on my undergraduate thesis under Prof. Rajendran Narayanan. My research focuses on modelling labour market transitions in India using tools from survival analysis and stochastic modelling. I also work as a research assistant under Prof. Chinmaya Kumar.\nPS: Love to chat; feel free to reach out!    \nNow | Colophon | CV"
   },
   {
     "objectID": "projects/index.html",
@@ -75,5 +75,26 @@
     "title": "Projects",
     "section": "",
     "text": "Work in Progress…"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Jyotiraditya Pradhan",
+    "section": "",
+    "text": "I’m a fourth year economics undergraduate at Azim Premji University, Bengaluru. My broad interests lie across microeconomics, development, and methods of statistical inference.\nI’m currently working my undergradutae thesis under Prof. Rajendran Narayanan, in which I am attempting to model labour market transitions in India. I’m also interning as a research assistant under Prof. Chinmaya Kumar.\nPS: Love to chat; feel free to reach out!"
+  },
+  {
+    "objectID": "reading/articles/index.html",
+    "href": "reading/articles/index.html",
+    "title": "Articles",
+    "section": "",
+    "text": "July 2026\n\nIs the Supreme Court closing the gates on judicial transparency? The Hindu Frontline On India’s top court’s new requirement for sharing recordings of live-streamed hearings."
+  },
+  {
+    "objectID": "reading/articles/index.html#section",
+    "href": "reading/articles/index.html#section",
+    "title": "Articles",
+    "section": "",
+    "text": "Is the Supreme Court closing the gates on judicial transparency? The Hindu Frontline"
   }
 ]
